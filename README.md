@@ -1,2 +1,3 @@
 Alumno: Acevedo De la Torre Gabriel
-\nPractica Validador de Correlativas
+
+Practica Validador de Correlativas
